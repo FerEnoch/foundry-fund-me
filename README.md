@@ -1,3 +1,6 @@
+## Cyfrin Updraft smart contracts development (EVM) 
+This repo contains a crowd sourcing smart contract, and is part of the blockachain development course of Cyfrin Updraft using solidity and Foundry.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
