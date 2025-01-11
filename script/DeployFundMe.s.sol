@@ -38,7 +38,7 @@ contract DeployFundMe is Script {
      }
 
 
-   function printFirstArrayElement(address _contractAddress) public view {
+    function printFirstArrayElement(address _contractAddress) public view {
         bytes32 arrayStorageSlotLength = bytes32(uint256(2));
         bytes32 firstElementStorageSlot = keccak256(
             abi.encode(arrayStorageSlotLength)
